@@ -13,6 +13,7 @@ Esta base de dados é proveniente do **Brazilian E-Commerce Public Dataset by Ol
 
 Após o processo de integração e tratamento, os dados foram organizados em uma **tabela fato denormalizada** (`olist_order_lines_denorm.csv`) e **dimensões auxiliares** (`dim_customers.csv`, `dim_products.csv`, `dim_sellers.csv`), facilitando análises descritivas e a construção de dashboards.
 
+Link do colab: https://colab.research.google.com/drive/1UoICU2GxzpfjkP2i7M1pIJFvroeRQXCs?usp=sharing
 ---
 
 ## 📈 Destaques da Base
