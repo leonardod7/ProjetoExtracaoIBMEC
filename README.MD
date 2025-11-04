@@ -79,7 +79,7 @@ O modelo linear apresentou melhor desempenho e confirmou a **relação negativa 
 
 ---
 
-##👥 Integrantes do Grupo
+## 👥 Integrantes do Grupo
 - Emilly Fernandes
 - Leonardo dos Santos
 - Tadeu Tovar
